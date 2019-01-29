@@ -1,0 +1,58 @@
+### Frequently used shell scripts
+
+---
+
+Name01:	getwwid.sh
+
+Description: 	This script is get multipath wwid
+
+Notes:		
+
+System:		CentOS 6.9
+
+Demo:
+
+```shell
+Device:sdae WWID:3600b3422ef89d44dea20dbc75d3e00d9
+Device:sdak WWID:3600b3422ef89d44dea20dbc75d3e00d9
+Device:sdap WWID:3600b3422ef89d44dea20dbc75d3e00d9
+Device:sde WWID:3600b3422ef89d44dea20dbc75d3e00d9
+Device:sdj WWID:3600b3422ef89d44dea20dbc75d3e00d9
+Device:sdo WWID:3600b3422ef89d44dea20dbc75d3e00d9
+Device:sdt WWID:3600b3422ef89d44dea20dbc75d3e00d9
+Device:sdz WWID:3600b3422ef89d44dea20dbc75d3e00d9
+Device:sdab WWID:3600b34289ae0b03d9436d99a0da100d9
+Device:sdah WWID:3600b34289ae0b03d9436d99a0da100d9
+Device:sdam WWID:3600b34289ae0b03d9436d99a0da100d9
+Device:sdb WWID:3600b34289ae0b03d9436d99a0da100d9
+Device:sdg WWID:3600b34289ae0b03d9436d99a0da100d9
+Device:sdl WWID:3600b34289ae0b03d9436d99a0da100d9
+Device:sdq WWID:3600b34289ae0b03d9436d99a0da100d9
+Device:sdw WWID:3600b34289ae0b03d9436d99a0da100d9
+Device:sdaa WWID:3600b342acc56e41d2443d4512dda00d9
+Device:sdaf WWID:3600b342acc56e41d2443d4512dda00d9
+Device:sdal WWID:3600b342acc56e41d2443d4512dda00d9
+Device:sdaq WWID:3600b342acc56e41d2443d4512dda00d9
+Device:sdf WWID:3600b342acc56e41d2443d4512dda00d9
+Device:sdk WWID:3600b342acc56e41d2443d4512dda00d9
+Device:sdp WWID:3600b342acc56e41d2443d4512dda00d9
+Device:sdu WWID:3600b342acc56e41d2443d4512dda00d9
+Device:sdac WWID:3600b342cc68a3cddd138d1a3bd1e00d9
+Device:sdai WWID:3600b342cc68a3cddd138d1a3bd1e00d9
+Device:sdan WWID:3600b342cc68a3cddd138d1a3bd1e00d9
+Device:sdc WWID:3600b342cc68a3cddd138d1a3bd1e00d9
+Device:sdh WWID:3600b342cc68a3cddd138d1a3bd1e00d9
+Device:sdm WWID:3600b342cc68a3cddd138d1a3bd1e00d9
+Device:sdr WWID:3600b342cc68a3cddd138d1a3bd1e00d9
+Device:sdx WWID:3600b342cc68a3cddd138d1a3bd1e00d9
+Device:sdad WWID:3600b342e7b0e3f5dd28cd3b40df700d9
+Device:sdaj WWID:3600b342e7b0e3f5dd28cd3b40df700d9
+Device:sdao WWID:3600b342e7b0e3f5dd28cd3b40df700d9
+Device:sdd WWID:3600b342e7b0e3f5dd28cd3b40df700d9
+Device:sdi WWID:3600b342e7b0e3f5dd28cd3b40df700d9
+Device:sdn WWID:3600b342e7b0e3f5dd28cd3b40df700d9
+Device:sds WWID:3600b342e7b0e3f5dd28cd3b40df700d9
+Device:sdy WWID:3600b342e7b0e3f5dd28cd3b40df700d9
+Device:sda WWID:361866da05be5cf001f0834ff42ef7c1d
+```
+
